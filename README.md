@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Systems Projects:</h2>
 
-<!-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
+ <b> Mathematics Magic With Java (AlgoExpert)</b>
+  - [Practicing Java]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/awasiano/Magic-Mathematics-On-Java))
 
 <h2> - Certifications </h2>
 
